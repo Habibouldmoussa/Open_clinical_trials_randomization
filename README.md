@@ -1,2 +1,3 @@
-# Open_clinical_trials_randomization-
-open source randomization API 
+# Open_clinical_trials_randomization
+
+Open source randomization API for clinical trials

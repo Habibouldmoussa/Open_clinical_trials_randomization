@@ -1,4 +1,6 @@
 import restana from "restana";
+import graphqlhttp from "restana-graphql";
+
 const port = 3000;
 const service = restana();
 
